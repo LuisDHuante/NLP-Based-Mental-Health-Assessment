@@ -1,4 +1,6 @@
 # Text-Based Mental Health Assessment: A NLP-Driven Approach
+ 
+![illu_intro_NLP_blog-18-1](https://user-images.githubusercontent.com/69726163/235321972-509bf1c8-4b27-43d3-9140-281175f7e0f3.png)
 
 
 In today's digital age, social media and messaging platforms like Telegram have become a crucial part of our daily lives. However, these platforms can also be a valuable source of information when it comes to identifying individuals who may be at risk for mental health disorders like depression and eating disorders. This project aims to leverage the power of Natural Language Processing (NLP) to identify such individuals by analyzing their language use patterns on Telegram.
