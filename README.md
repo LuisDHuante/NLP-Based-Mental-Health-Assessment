@@ -1,5 +1,8 @@
 # NLP-Based Mental Health Assessment: A NLP-Driven Approach
 
+![Screenshot 2023-04-26 at 09-16-11 MentalRiskES 2023](https://user-images.githubusercontent.com/69726163/235321760-5f824c82-b62a-483c-b272-6744a8a381ba.png)
+
+
 In today's digital age, social media and messaging platforms like Telegram have become a crucial part of our daily lives. However, these platforms can also be a valuable source of information when it comes to identifying individuals who may be at risk for mental health disorders like depression and eating disorders. This project aims to leverage the power of Natural Language Processing (NLP) to identify such individuals by analyzing their language use patterns on Telegram.
 
 The project involves collecting and processing a user's message history on Telegram and then applying NLP techniques to detect signs of depression and eating disorders. NLP is a branch of Artificial Intelligence that deals with processing, analyzing, and understanding human language. It has various applications in different fields, including the healthcare industry, where it is used to extract valuable information from medical records, social media posts, and other sources of data. 
